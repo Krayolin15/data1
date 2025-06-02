@@ -147,7 +147,9 @@ body {
 
   .details {
     font-size: 8px;
-    margin-top: 23px;
+    margin-top: 12em;
+    position: relative;
+    top: 12em;
   }
 }
 
